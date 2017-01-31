@@ -10,11 +10,7 @@ Contributions welcome!
 Installation
 ------------
 ```
-npm install angular-multiselect
-```
-OR
-```
-bower install amitava82-angular-multiselect
+bower install imago-angular-multiselect
 ```
 OR
 Include `multiselect.js` and `multiselect.tmpl.html` or `multiselect-tpls.js` (it has template included) from `dist` folder.
